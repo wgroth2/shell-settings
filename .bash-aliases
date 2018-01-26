@@ -1,0 +1,5 @@
+alias h="history"
+alias log="tail -f /var/log/syslog"
+alias logs="more /var/log/syslog"
+alias logl="tail -n 100 /var/log/syslog | more"
+alias psg="ps -ef| grep "
