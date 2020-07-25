@@ -11,3 +11,4 @@ alias log='tail -f /var/log/syslog'
 alias logs='more /var/log/syslog'
 alias ls='ls --color=auto'
 alias psg='ps -ef| grep '
+alias lsz="ls -lS"
